@@ -10,6 +10,8 @@
 .card-2 {
   display: flex;
   justify-content: flex-end;
+  align-items: flex-end;
+  padding-right: 25px;
   border-radius: 5px;
   flex-direction: column;
   border: 2px solid #cbced2;
@@ -20,7 +22,7 @@
 .card-3 {
   display: flex;
   justify-content: center;
-  text-align: center;
+  align-items: center;
   border-radius: 5px;
   flex-direction: column;
   border: 2px solid #cbced2;
@@ -49,4 +51,3 @@
   width: 95px;
   margin-bottom: 30px;
 }
-
